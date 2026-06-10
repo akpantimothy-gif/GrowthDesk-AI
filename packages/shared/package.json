@@ -1,0 +1,1 @@
+{\n  "name": "@growthdesk/shared",\n  "version": "0.1.0",\n  "private": true,\n  "main": "./dist/index.js",\n  "types": "./dist/index.d.ts",\n  "scripts": {\n    "build": "tsc",\n    "type-check": "tsc --noEmit"\n  },\n  "dependencies": {\n    "zod": "^3.22.4"\n  },\n  "devDependencies": {\n    "typescript": "^5.3.3"\n  }\n}\n
